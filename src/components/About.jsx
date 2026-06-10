@@ -1,9 +1,9 @@
 import React from 'react'
 import about1 from "../assets/About/about1.png"
-import polygon from '../assets/About/polygon.svg'
+import polygon from '../assets/About/Polygon.svg'
 import about2 from "../assets/About/about2.png"
-import polygon1 from '../assets/About/polygon1.svg'
-import vector1 from "../assets/About/vector1.svg"
+import polygon1 from '../assets/About/Polygon1.svg'
+import vector1 from "../assets/About/Vector1.svg"
 
 const About = () => {
   return (
