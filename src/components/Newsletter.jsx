@@ -1,7 +1,7 @@
 import React from 'react'
 import ellipse from "../assets/Newsletter/Ellipse 739.svg"
 import vector1 from "../assets/Newsletter/Vector 2518.svg"
-import vector2 from "../assets/Newsletter/vector 2519.svg"
+import vector2 from "../assets/Newsletter/Vector 2519.svg"
 
 const Newsletter = () => {
   return (
